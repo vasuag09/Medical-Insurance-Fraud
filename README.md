@@ -6,7 +6,7 @@ Built with a complete ML pipeline — from preprocessing to explainability — a
 ---
 
 ## 🚀 Live Demo  
-🔗 [**Try the App Here →**](https://your-app-name.streamlit.app)  
+🔗 [**Try the App Here →**](https://vasuag09-medical-insurance-fraud-app-jlnqby.streamlit.app/)
 *(replace with your actual Streamlit Cloud link once deployed)*  
 
 ---
